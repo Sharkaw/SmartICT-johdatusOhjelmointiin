@@ -1,0 +1,8 @@
+Datatiedot asiakkaalle numero #1
+Nimi: suvi
+E-mail: suvi@mail.com
+Puhelinnumero: 1234
+Datatiedot asiakkaalle numero #2
+Nimi: Atte
+E-mail: atte@mail.com
+Puhelinnumero: 7644
